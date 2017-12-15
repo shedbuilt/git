@@ -1,0 +1,5 @@
+NAME=git
+VERSION=2.14.1
+REVISION=1
+SRC=https://www.kernel.org/pub/software/scm/git/git-2.14.1.tar.xz
+SRCMD5=a55bc6a2164d3ef1c3e5fc2f0c1d0d52
