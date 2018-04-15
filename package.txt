@@ -1,6 +1,6 @@
 NAME=git
 VERSION=2.16.2
-REVISION=3
+REVISION=1
 SRC=https://www.kernel.org/pub/software/scm/git/git-2.16.2.tar.xz
 SRCMD5=13a715b3f0b2088839079eed2f8902ad
 CLEANUP=yes
